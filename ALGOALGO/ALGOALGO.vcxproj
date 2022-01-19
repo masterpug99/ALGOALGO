@@ -140,7 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="[BOJ]1181.cpp" />
+    <ClCompile Include="[BOJ]1259.cpp" />
+    <ClCompile Include="[BOJ]2164.cpp" />
+    <ClCompile Include="[BOJ]2751.cpp" />
     <ClCompile Include="[BOJ]2920.cpp" />
+    <ClCompile Include="[BOJ]9012.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

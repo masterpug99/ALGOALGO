@@ -14,6 +14,7 @@ bool cmp(string a, string b) {
 		return true;
 	}
 }
+/*
 int main() {
 	int N;
 	cin >> N;
@@ -34,3 +35,4 @@ int main() {
 	}
 
 }
+*/
