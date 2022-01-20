@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="[BOJ]10814.cpp" />
+    <ClCompile Include="[BOJ]10828.cpp" />
     <ClCompile Include="[BOJ]1181.cpp" />
     <ClCompile Include="[BOJ]1259.cpp" />
     <ClCompile Include="[BOJ]2164.cpp" />
