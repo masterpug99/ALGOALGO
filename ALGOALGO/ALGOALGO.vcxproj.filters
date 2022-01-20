@@ -39,5 +39,20 @@
     <ClCompile Include="[BOJ]10828.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="[BOJ]10845.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]10866.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]11050.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]11650.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]11866.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
