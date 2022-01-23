@@ -148,8 +148,13 @@
     <ClCompile Include="[BOJ]1181.cpp" />
     <ClCompile Include="[BOJ]11866.cpp" />
     <ClCompile Include="[BOJ]1259.cpp" />
+    <ClCompile Include="[BOJ]1654.cpp" />
+    <ClCompile Include="[BOJ]1874.cpp" />
+    <ClCompile Include="[BOJ]1966.cpp" />
+    <ClCompile Include="[BOJ]2108.cpp" />
     <ClCompile Include="[BOJ]2164.cpp" />
     <ClCompile Include="[BOJ]2751.cpp" />
+    <ClCompile Include="[BOJ]2805.cpp" />
     <ClCompile Include="[BOJ]2920.cpp" />
     <ClCompile Include="[BOJ]9012.cpp" />
   </ItemGroup>
