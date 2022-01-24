@@ -139,16 +139,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="[BOJ]10773.cpp" />
     <ClCompile Include="[BOJ]10814.cpp" />
     <ClCompile Include="[BOJ]10828.cpp" />
     <ClCompile Include="[BOJ]10845.cpp" />
     <ClCompile Include="[BOJ]10866.cpp" />
+    <ClCompile Include="[BOj]10989.cpp" />
     <ClCompile Include="[BOJ]11050.cpp" />
     <ClCompile Include="[BOJ]11650.cpp" />
+    <ClCompile Include="[BOJ]11651.cpp" />
     <ClCompile Include="[BOJ]1181.cpp" />
     <ClCompile Include="[BOJ]11866.cpp" />
     <ClCompile Include="[BOJ]1259.cpp" />
+    <ClCompile Include="[BOJ]15829.cpp" />
     <ClCompile Include="[BOJ]1654.cpp" />
+    <ClCompile Include="[BOJ]18111.cpp" />
     <ClCompile Include="[BOJ]1874.cpp" />
     <ClCompile Include="[BOJ]1966.cpp" />
     <ClCompile Include="[BOJ]2108.cpp" />
@@ -156,6 +161,7 @@
     <ClCompile Include="[BOJ]2751.cpp" />
     <ClCompile Include="[BOJ]2805.cpp" />
     <ClCompile Include="[BOJ]2920.cpp" />
+    <ClCompile Include="[BOJ]4949.cpp" />
     <ClCompile Include="[BOJ]9012.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
