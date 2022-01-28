@@ -3,8 +3,9 @@
 #include <algorithm>
 #include <cmath>
 using namespace std;
-int list[8002];
 /*
+int list[8002];
+
 int main() {
 	int n;
 	cin >> n;
