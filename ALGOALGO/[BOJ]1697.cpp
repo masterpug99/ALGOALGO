@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include <queue>
+/*
 using namespace std;
 bool visit[100001];
 
@@ -40,3 +41,4 @@ int main() {
 		}
 	}
 }
+*/
