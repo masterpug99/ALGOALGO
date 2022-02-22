@@ -2,6 +2,7 @@
 #include <queue>
 #include <tuple>
 #include <vector>
+/*
 using namespace std;
 int list[101][101][101]; // 세로 가로 높이
 int dx[6] = { -1,1,0,0,0,0 };
@@ -61,3 +62,4 @@ int main() {
 	cout << answer;
 	
 }
+*/
