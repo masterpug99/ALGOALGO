@@ -151,6 +151,9 @@
     <ClCompile Include="[BOJ]11050.cpp" />
     <ClCompile Include="[BOJ]1107.cpp" />
     <ClCompile Include="[BOJ]11279.cpp" />
+    <ClCompile Include="[BOJ]11286.cpp" />
+    <ClCompile Include="[BOJ]11403(2).cpp" />
+    <ClCompile Include="[BOJ]11403.cpp" />
     <ClCompile Include="[BOJ]11650.cpp" />
     <ClCompile Include="[BOJ]11651.cpp" />
     <ClCompile Include="[BOJ]11723.cpp" />
