@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/*
 int list[101][101];
 
 int main() {
@@ -30,3 +30,4 @@ int main() {
 		cout << "\n";
 	}
 }
+*/
