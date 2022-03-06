@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -168,6 +168,7 @@
     <ClCompile Include="[BOJ]1389.cpp" />
     <ClCompile Include="[BOJ]15829.cpp" />
     <ClCompile Include="[BOJ]1620.cpp" />
+    <ClCompile Include="[BOJ]16236.cpp" />
     <ClCompile Include="[BOJ]1654.cpp" />
     <ClCompile Include="[BOJ]1676.cpp" />
     <ClCompile Include="[BOJ]1697.cpp" />
