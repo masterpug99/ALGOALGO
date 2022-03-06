@@ -2,8 +2,9 @@
 #include <queue>
 #include <tuple>
 #include <algorithm>
-using namespace std;
 /*
+using namespace std;
+
 int n;
 int cnt = 0;
 int sharkSize = 2;
