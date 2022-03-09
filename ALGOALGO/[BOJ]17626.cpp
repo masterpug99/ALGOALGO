@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-
+/*
 using namespace std;
 
 int list[224];
@@ -34,3 +34,4 @@ int main() {
 	}
 	cout << dp[n];
 }
+*/
