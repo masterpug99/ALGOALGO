@@ -219,6 +219,15 @@
     <ClCompile Include="[BOJ]1753.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="[BOJ]1865.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]1916.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]1918.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="example.txt">
