@@ -267,6 +267,15 @@
     <ClCompile Include="[BOJ]2206.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="[BOJ]2263.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]11404.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]2096.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="example.txt">
